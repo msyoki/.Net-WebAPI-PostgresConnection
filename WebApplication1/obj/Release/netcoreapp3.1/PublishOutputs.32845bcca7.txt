@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\LIVE PROJECTS\Waica RE\PostgresConnectionTest\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication1.exe
+C:\Users\Dell\source\repos\LIVE PROJECTS\Waica RE\PostgresConnectionTest\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Dell\source\repos\LIVE PROJECTS\Waica RE\PostgresConnectionTest\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Dell\source\repos\LIVE PROJECTS\Waica RE\PostgresConnectionTest\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication1.dll
+C:\Users\Dell\source\repos\LIVE PROJECTS\Waica RE\PostgresConnectionTest\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication1.deps.json
+C:\Users\Dell\source\repos\LIVE PROJECTS\Waica RE\PostgresConnectionTest\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication1.runtimeconfig.json
+C:\Users\Dell\source\repos\LIVE PROJECTS\Waica RE\PostgresConnectionTest\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication1.pdb
+C:\Users\Dell\source\repos\LIVE PROJECTS\Waica RE\PostgresConnectionTest\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Dell\source\repos\LIVE PROJECTS\Waica RE\PostgresConnectionTest\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Dell\source\repos\LIVE PROJECTS\Waica RE\PostgresConnectionTest\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\LIVE PROJECTS\Waica RE\PostgresConnectionTest\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\Users\Dell\source\repos\LIVE PROJECTS\Waica RE\PostgresConnectionTest\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\Npgsql.dll
