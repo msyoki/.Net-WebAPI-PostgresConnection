@@ -40,5 +40,7 @@ Steps:
                      }
 
 - Add DB in PgAdmin and create sample table 
-- Add conenction string 
+- Add connection string under appsettings
 - Add controller and model 
+
+Run APP.
